@@ -36,7 +36,7 @@ User Interaction
 
 ## 📷 Project Presentation
 
-![Slide ](slide-L1.png)
+![Slide 1](slide-L1.png)
 
 ![Slide 2](slide-L2.png)
 
