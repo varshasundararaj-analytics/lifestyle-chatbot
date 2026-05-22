@@ -36,9 +36,9 @@ User Interaction
 
 ## 📷 Project Presentation
 
-![Slide 1](slide-L1.png)
+![Slide 1](slide - L1.png)
 
-![Slide 2](slide-L2.png)
+![Slide 2](slide - L2.png)
 
 ## 📈 Output 
 The project helped in understanding how chatbot systems improve conversational interaction through AI-based workflows and user-centered communication.
